@@ -1,7 +1,14 @@
 unit HexStr;
 
 interface
+{***************************************************************************
+  Approximate reconstruction of the unit DEDHost found in PACKAGEINFO.
 
+  It is NOT a byte-for-byte decompilation.  Names, field layout and several
+  corner cases are reconstructed from strings, exports and protocol knowledge.
+
+  Copyright Dr. Pedro E. Colla (LU7DZ) 1999-2026 <pedro.colla@gmail.com>
+***************************************************************************}
 uses SysUtils;
 
 function ByteToHex(B: Byte): string;

@@ -3,6 +3,9 @@ unit HDEDVC;
 {***************************************************************************
   Approximate reconstruction of the unit name HDEDVC found in PACKAGEINFO.
   It models a DED virtual channel mapped to AGWPE frames.
+
+  Copyright Dr. Pedro E. Colla (LU7DZ) 1999-2026 <pedro.colla@gmail.com>
+
 ***************************************************************************}
 
 interface
