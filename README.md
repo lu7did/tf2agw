@@ -43,7 +43,7 @@ of software related to the AGWPE any further.
 Over the time on the early 2000's a machine crash wipped out the build chain of tf2agw and
 the backups turned out to be useless. So any possibility to further develop the program was gone.
 
-I did thought that it's function was done and nobody would care about that.
+I did thought that it's function was done and nobody would care about that, surely enough I didn't care as I was not interested on the actual usage of the AGWPE engine any further.
 
 The program has been always published (in binary form), and it's purpose was pretty confined so no additional functions were really needed, and the quality was surprinsingly
 good so no bugs repair were needed either.
