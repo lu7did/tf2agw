@@ -81,7 +81,7 @@ It doesn't really affect me in any way, and unless the API has been changed (whi
 don't know) the tf2agw program has been developed prior to that change in the license
 so it's not bound by it. In fact the tf2agw program and the full documentation of the
 AGW PE API (written by me in collaboration with George) has been available at the SV2AGW
-site for decades but has been removed completely.
+site for decades but has been removed completely at some point over the past decade.
 
 ## Therefore....
 
