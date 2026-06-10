@@ -34,7 +34,7 @@ back to the caller program when needed.
 
 The program works surprinsingly well and got a wide acceptance then. 
 
-## What was my stake at it
+## What was my stake at it?
 
 Although, as almost all the material I wrote for ham radio applications, was placed in the
 public domain as **freeware** it was not my intention to write a product for general use, but 
@@ -64,6 +64,7 @@ operation were at 1200 bps and the BBS struggle to perform the mail forward in a
 metropolitan area so less RFI were greatly appreciated. Good times, good memories.
 
 
+
 ## And then ....
 
 A lot of machine migrations, some home moving, turbulent times, not able to work AX.25 anymore for several years, then when I setup my station again the AX.25 activity almost
@@ -81,6 +82,16 @@ The program has been always published (in binary form), and it's purpose was pre
 good so no bugs repair were needed either.
 
 The program remained a living fossil for the next 25 years.
+
+## Incidentally ...
+
+The program was always sitting at my [qsl.net page](https://www.qsl.net/lu7did/tf2agw.htm) which
+I don't really use much since a long time ago. However, for some misterious reason some web
+pages and sites instead of using a link to it preferred to copy the package and distribute
+it from his own site. I don't really mind that although I think it's always preferred to point
+to the original source. One of the sites was Jose Maria GONZALEZ DEVITTA [CX2SA](http://www.cx2sa.net) (the site is erratically available as per 2026), it's not Jose Maria's fault, but at
+some discussions in group.io related to the usage of tf2agw he has been pointed as the originator
+of the package, nothing I do really care about but still it's not bad to keep the record straight. 
 
 ## Now....
 
