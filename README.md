@@ -34,6 +34,36 @@ back to the caller program when needed.
 
 The program works surprinsingly well and got a wide acceptance then. 
 
+## What was my stake at it
+
+Although, as almost all the material I wrote for ham radio applications, was placed in the
+public domain as **freeware** it was not my intention to write a product for general use, but 
+something to help me on my specific needs although written with a generalistic perspective in
+the (high) hopes that it might be useful for other similar situations.
+
+At the time I ran a 7x24 AX.25 BBS using the surprinsingly versatile  
+[TSTHWin program](https://www.qsl.net/iw0fol/packet/packetuk.htm) which is still available
+although IW0FOL himself isn't longer available. This program was very simple to setup and operate,
+it came with forward facilities and a surprinsingly large number of add-on and servers. I expanded
+his operation quite largely with code of my own into a BBS running for years without issues, I love
+that one.
+
+However, the main stream of users adopting tf2agw.dll come from another tribe, the then almighty
+*F6FBB BBS* software which ran almost all the AX.25 BBS infrastructure of the time. This BBS also
+was able to run the DED protocol but (at the time) got no support for the AGW PE firmware, so be 
+it, tf2agw.dll was a nice fit and manyfold users took advantage of it.
+
+At the time I struggle with requests or claims about the usage of the dll with F6FBB which I was
+unable to help as I never really ran it in my node which at the time operate a full fledged
+AX.25-TCP/IP gateway (yes, Internet in the 90s), a FidoNet to AX.25 bridge, the BBS itself, a 
+G8BPQ NETROM Node, a JNOS AX.25/TCP-IP node, a XNet node and manyfold other experiments, in a
+humble 386 machine with little memory. I also ran by the time a program called 
+**pescador** (spanish for "fishermen") which were able to recover AX.25 BBS forward just listening
+at the forward of other nearby BBS without actively using radio slots, at the time the AX.25
+operation were at 1200 bps and the BBS struggle to perform the mail forward in a dense 
+metropolitan area so less RFI were greatly appreciated. Good times, good memories.
+
+
 ## And then ....
 
 A lot of machine migrations, some home moving, turbulent times, not able to work AX.25 anymore for several years, then when I setup my station again the AX.25 activity almost
@@ -42,6 +72,8 @@ of software related to the AGWPE any further.
 
 Over the time on the early 2000's a machine crash wipped out the build chain of tf2agw and
 the backups turned out to be useless. So any possibility to further develop the program was gone.
+
+This crash not only wipped out tf2agw but all the BBS environment I ran for years, gone for good.
 
 I did thought that it's function was done and nobody would care about that, surely enough I didn't care as I was not interested on the actual usage of the AGWPE engine any further.
 
@@ -184,3 +216,20 @@ Compilation with a modern Delphi 5/7 (or equivalent) build environment is needed
 5. `TfClose`
 
 With a small iteration with a little experimentation a full functional compliance might be achieved.
+
+# Package
+
+The latest version of the package (version 1.8) is included which contains:
+
+* The **tf2agw.dll** binary.
+* A sample **tf2agw.ini** configuration file.
+* A rather extensive and detailed documentation of the library in HTML format.
+
+All this material is contained in the *bin* directory of the repository.
+
+```
+The documentation uses, refers and points to documentation and other links available at the moment
+of the construction of the package (circa the year 2000), it's likely few of these links might be
+non-existent or otherwise broken by now. Your mileage might vary.
+```
+
