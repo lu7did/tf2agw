@@ -66,9 +66,16 @@ now shows the following statement
 
 ```
 License Agreement
-You must not reverse engineering the TCPIP protocol that Packet Engine uses to communicate with client applications. This protocol copyright belongs to me and you cannot emulate it. You can only use it for writing client applications.
-Your program is totally independent from Packet Engine. You can disturb your program any way you like. Freeware, Shareware or as commercial application. Since AGW Packet Engine is self-standing application its license agreement is not applied to your program. However the end user must respect the Packet Engine License agreement.
-
+You must not reverse engineering the TCPIP protocol that Packet Engine uses to communicate with
+client applications.
+This protocol copyright belongs to me and you cannot emulate it.
+You can only use it for writing client applications.
+Your program is totally independent from Packet Engine.
+You can disturb your program any way you like.
+Freeware, Shareware or as commercial application.
+Since AGW Packet Engine is self-standing application its license agreement is not applied
+to your program.
+However the end user must respect the Packet Engine License agreement.
 ```
 It doesn't really affect me in any way, and unless the API has been changed (which I 
 don't know) the tf2agw program has been developed prior to that change in the license
