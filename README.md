@@ -2,8 +2,8 @@
 
 ##  Brief History 
 
-This is a proxy hack to enable, then early Windows programs, willing to use AX.25 TNCs 
-"The Firmware" (DED Protocol) with the then novel and much more veratile AGW Packet Engine firmware.
+This is a proxy hack to enable, the then early 32-bit Windows programs, willing to use AX.25 TNCs 
+"The Firmware" (DED Protocol) to use the then novel and much more veratile AGW Packet Engine firmware.
 
 The AGWPE firmware supported a wide range of TNC hardware models as well as a superb
 (and then very marevelous) soft TNC using the sound card.
